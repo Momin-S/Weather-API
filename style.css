@@ -78,6 +78,7 @@ button {
     display: grid;
     grid-template-columns: auto 35% 10% auto;
     grid-column-gap: 0px;
+    cursor: default;
 }
 
 .temp_unit {

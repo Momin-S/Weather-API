@@ -33,8 +33,6 @@ function setCity() {
 }
 
 
-
-
 function changeUnits() {
   console.log("Change units");
 
